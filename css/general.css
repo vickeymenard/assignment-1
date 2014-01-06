@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #33091A;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 2.5rem;
+	font-size: 30px;
+}
+
+blockquote {
+	background-color: #952951;
+	margin: 10rem 15%;
+	padding: 2rem 10%;
+	border-radius: 20px;
+	text-align: left;
+	color: #FFF;
+}
+
+blockquote cite {
+	display: block;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	font-style: normal;
+	color: #FFA5C8;
+}
+
+.leftquote {
+	font-size: 605%;
+	font-family: Arial, Helvetica, sans-serif;
+	float: left;
+	margin: 2.3rem -15%;
+	padding-right: 8%;
+	color: #CF1A66;
+}
+
+.rightquote {
+	font-size: 605%;
+	font-family: Arial, Helvetica, sans-serif;
+	float: right;
+	margin: 4rem -15%;
+	color: #CF1A66;
+}
